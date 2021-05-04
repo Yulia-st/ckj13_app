@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\Для Юли\CKJ13_project44\.metadata\.plugins\org.eclipse.jdt.core
+729210550.index
+3187500434.index
